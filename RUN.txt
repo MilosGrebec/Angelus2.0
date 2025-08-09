@@ -1,0 +1,4 @@
+cd zmaj
+cd .\Scripts\
+./activate
+python .\Angleus2.0.py
