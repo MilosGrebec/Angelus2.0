@@ -20,7 +20,7 @@ There are some custom models that I, or you, have already trained, and you can c
 That big white space is going to be your camera. When you press start, it will turn on, and your chosen model will be loaded.
 
 Now on, make your own model button.
-When you press it whis window will open.
+When you press it this window will open.
 
 <img width="697" height="925" alt="image" src="https://github.com/user-attachments/assets/9445072b-9cf0-4349-a137-c05291b7e604" />
 
